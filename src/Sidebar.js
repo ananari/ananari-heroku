@@ -10,10 +10,8 @@ function Sidebar() {
                   <img id="myimg" src={mecropped} alt="my face"/>
               </a>
             </div>
-            <a className="item">Character pickers</a>
-            <a className="item">Syloti Nagri iOS Keyboard</a>
-            <a className="item">Sylheti dictionary</a>
-            <a className="item">Other projects</a>
+            <a className="item"  href="/sylotikeyboard">Syloti Nagri iOS Keyboard</a>
+            <a className="item">Projects</a>
         </nav>
     )
 }

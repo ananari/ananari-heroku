@@ -21,7 +21,7 @@ function Home() {
              <p>
                 Apart from linguistics and programming, my biggest interests 
                 are music and typography. I am an accordionist and singer, and 
-                I used to sing with the choir <a href="http://www.golosa.org/">
+                I used to sing and play with the choir <a href="http://www.golosa.org/">
                 Golosa</a> for many years. Lately I have been getting into 
                 type design, with a particular interest in making typefaces 
                 for Syloti Nagri that represent the diversity in Sylheti books, 
