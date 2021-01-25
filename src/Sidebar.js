@@ -1,6 +1,7 @@
 import React from 'react';
 import mecropped from './mecropped.jpg';
 import './Sidebar.css';
+import resumé from "./resumé.pdf"
 
 function Sidebar() {
     return (
@@ -12,6 +13,7 @@ function Sidebar() {
             </div>
             <a className="item" href="/sylotikeyboard">Syloti Nagri iOS Keyboard</a>
             <a className="item" href="/projects">Projects</a>
+            <a className="item" href={resumé} target="_blank" rel="noreferrer">Resumé</a>
         </nav>
     )
 }

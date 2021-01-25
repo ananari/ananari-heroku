@@ -1,4 +1,5 @@
 import "./Home.css"
+import resumé from "./resumé.pdf";
 
 function Home() {
     return (
@@ -7,7 +8,7 @@ function Home() {
             <p>
                 My name is Anaïs Ahmed, and I am originally from Austin, Texas. 
                 I graduated from the Uni­versity of Chicago in 2016, with a BA 
-                in Linguistics, and currently live in Chicago, Illinois. 
+                in Linguistics, and currently live in Chicago, Illinois.
             </p>
             <p>   
                 Nowadays, I am a web and mobile developer. The bulk 
@@ -16,7 +17,10 @@ function Home() {
                 used to write the Sylheti language, spoken in north­eastern 
                 Bangladesh and India. Currently, I am working on a Sylheti 
                 dic­tionary in conjunction with the Sylheti Project at SOAS 
-                University of London, available for both mobile and web. 
+                University of London, available for both mobile and web. My
+                resumé can be found <a href={resumé} target="_blank" rel="noreferrer">here</a>, 
+                and a list of all my projects can be found <a href="/projects">
+                here</a>.
              </p>
              <p>
                 Apart from linguistics and programming, my biggest interests 
