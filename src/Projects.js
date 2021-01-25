@@ -37,6 +37,12 @@ function Projects() {
                 </li>
                 <br/><br/>
                 <li>
+                    A shell script for users of Ubuntu 20.04 (and potentially 
+                    others) to type in Syloti Nagri, available <a href=
+                    "https://github.com/ananari/syl-ubuntu-install">here</a>.
+                </li>
+                <br/><br/>
+                <li>
                     A dictionary for the Sylheti language, made in conjunction 
                     with the Sylheti Project at SOAS University of London - 
                     work in progress, so no finished link available. Cross-platform 

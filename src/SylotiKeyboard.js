@@ -35,7 +35,12 @@ function SylotiApp() {
                 an installer</a> made in <a href=
                 "https://www.microsoft.com/en-us/download/details.aspx?id=102134">
                 MSKLC</a> for a Sylheti keyboard layout, along with their font 
-                Surma, which I highly recommend for anyone. 
+                Surma, which I highly recommend for anyone. For Ubuntu 20.04 users, 
+                I made a shell script <a href=
+                "https://github.com/ananari/syl-ubuntu-install">here</a> which 
+                will install the keyboard layout I personally use, based on 
+                InScript - no guarantees on it working on other versions of 
+                Ubuntu, or for other distros.
             </p>
             <h2>Privacy policy</h2>
             <p>
