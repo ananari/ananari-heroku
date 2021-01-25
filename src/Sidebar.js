@@ -11,7 +11,7 @@ function Sidebar() {
               </a>
             </div>
             <a className="item" href="/sylotikeyboard">Syloti Nagri iOS Keyboard</a>
-            <a className="item">Projects</a>
+            <a className="item" href="/projects">Projects</a>
         </nav>
     )
 }
