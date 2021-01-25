@@ -22,7 +22,6 @@ function SylotiApp() {
                 for iOS users to be able to write Syloti Nagri on their devices. 
                 You can find the link for the app on the App Store <a href=
                 "https://apps.apple.com/us/app/syloti-keyboard/id1515279890">here</a>.
-                For Ubuntu users, I've made a layout file available here. 
             </p>
             <h2>For non-iOS users</h2>
             <p>
