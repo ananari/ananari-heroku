@@ -20,6 +20,8 @@ function Home() {
                 University of London, available for both mobile and web. My
                 resumé can be found <a href={resumé} target="_blank" rel="noreferrer">here</a>, 
                 and a list of all my projects can be found <a href="/projects">
+                here</a>. You can also find me regularly Tweeting about languages 
+                and programming <a href="https://twitter.com/tramslinguistic">
                 here</a>.
              </p>
              <p>
