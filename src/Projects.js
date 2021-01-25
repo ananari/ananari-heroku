@@ -49,7 +49,7 @@ function Projects() {
                 <br/><br/>
                 <li>
                     This very website, written in React, with source code  <a href="
-                    https://github.com/ananari/ananari.github.io">here</a>.
+                    https://github.com/ananari/ananari-heroku">here</a>.
                 </li>
             </ul>
         </div>
