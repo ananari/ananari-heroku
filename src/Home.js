@@ -6,9 +6,9 @@ function Home() {
         <div className="content">
             <h2>About me</h2>
             <p>
-                My name is Anaïs Ahmed, and I am originally from Austin, Texas. 
+                My name is Anaïs Ahmed, and I live is Austin, Texas. 
                 I graduated from the Uni­versity of Chicago in 2016, with a BA 
-                in Linguistics, and currently live in Chicago, Illinois.
+                in Linguistics.
             </p>
             <p>   
                 Nowadays, I am a web and mobile developer. The bulk 
